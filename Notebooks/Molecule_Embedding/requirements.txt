@@ -1,0 +1,14 @@
+jupyter
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+mpld3
+scikit-learn
+
+--extra-index-url https://pypi.anaconda.org/OpenEye/simple
+OpenEye-toolkits
+
+--extra-index-url https://pypi.anaconda.org/OpenEye/channel/beta/simple
+OpenEye-oenotebook >=0.0.dev0

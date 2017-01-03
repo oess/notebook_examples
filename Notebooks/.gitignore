@@ -1,0 +1,2 @@
+# Ignore HTML outputs from tests
+*.html
